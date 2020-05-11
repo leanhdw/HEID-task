@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "consent",
+        "practice",
+        "experiment"
+    ],
+    "initialStepIndex": 1
+}

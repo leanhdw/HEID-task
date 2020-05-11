@@ -1,0 +1,482 @@
+[
+    {
+       "title":"Gender Wage Equality",
+       "problem_statement":"Should There be Legislation to Ensure that Men and Women are Paid Equally?",
+       "position_statements":{
+          "for_statement":"Affirmative Action",
+          "alternate_statement":"Merit-Based System"
+       },
+       "image_src":"/static/media/issue-gender-wage-equality.c82db745.jpg",
+       "description":[
+          "The gender wage gap is the difference in earnings between men and women in the workplace. In general, reports suggest that women earn an average of 87 cents to every dollar a male earns, and there is a disproportionate amount of women in lower paying jobs than men. Debate on this topic extends to beliefs on reasons why the gap exists, whether there is in fact unequal opportunities between genders, and whether legislation – such as affirmative action (giving women preferential treatment in employment) – should replace merit-based systems where employment and salaries are based on performance not gender. Here are a few arguments presented by opposite sides of the debate."
+       ],
+       "pros":[
+          "Differences in earnings for men and women are founded in systematic, discriminatory practices.",
+          "A lack of affordable child-care and family leave policies force women to work more part-time positions than men.",
+          "The wage gap is amplified by the societal expectation that a woman should stay at home and take care of a child or children.",
+          "Society should work towards promoting women into higher wage jobs, STEM (science, technology, engineering and mathematics) careers, recognize and combat gender"
+       ],
+       "cons":[
+          "Experience may play a role in why one person gets paid more than the other despite having the same role.",
+          "Women have the same choice of working in a high paying, lucrative industry as men.",
+          "Since there are policies in place that prevent unequal pay for the same work, the gender wage cannot exist.",
+          "Women are more skillful at jobs involving care-taking and are more likely to be hired at part-time positions within that field. Thus, resulting in lower wage as a part-time worker."
+       ]
+    },
+    {
+       "title":"Abortion Rights",
+       "problem_statement":"Should Women Have the Right to an Abortion?",
+       "position_statements":{
+          "for_statement":"Pro-Choice",
+          "alternate_statement":"Pro-Life"
+       },
+       "image_src":"/static/media/issue-abortion-laws.8029cad4.jpg",
+       "description":[
+          "Having an unintended pregnancy is common in the US and Canada, and it is estimated that 4 out of 10 people will decide to have an abortion to end the pregnancy. Abortion procedures under medical supervision generally consist of surgical abortions (e.g.,  suction aspiration, hysterotomy) or medical abortions (e.g., saline abortions, drugs) to support the termination of a pregnancy. There is considerable debate as to whether abortions are immoral and whether they should be considered legal at any stage in a women’s pregnancy. Here are a few arguments presented by opposite sides of the debate."
+       ],
+       "pros":[
+          "Women have a right and the freedom to choose whether to have a child or not.",
+          "Reproductive choice empowers women by giving them control over what happens to their bodies - not forced to bring into the world a child that is unwanted perhaps due to sexual crimes or genetic abnormalities.",
+          "If legal abortions were not provided, women would attempt to do via unsafe, illegal abortions that could cause significant harm, including death",
+          "Many of the women who choose abortion don't have the financial resources to support a child; reduce welfare costs to tax payers."
+       ],
+       "cons":[
+          "Life begins at conception, so abortions are murder and the killing of an innocent human being is wrong, even if that human being has yet to be born; human being have a right to life.",
+          "Women should not be able to use abortion as a form of contraception; it is immoral to kill an unborn child for convenience and they should accept the responsibility that comes with producing a child.",
+          "Abortions also eliminate the potential of a future human-being to contribute to a society. Famous people whose mothers declined the advice to have an abortion include: Celine Dion, Justin Bieber and Tim Tebow.",
+          "Abortions are a sin according to certain religions."
+       ]
+    },
+    {
+       "title":"Government Funded Healthcare",
+       "problem_statement":"Should the Government Fund Universal Healthcare?",
+       "position_statements":{
+          "for_statement":"Public Healthcare",
+          "alternate_statement":"Private Healthcare"
+       },
+       "image_src":"/static/media/issue-government-funded-healthcare.fa52ea7c.jpg",
+       "description":[
+          "This topic focuses on whether healthcare is a basic human right and whether tax payer money collected by the government should also help fund free healthcare for its citizens. Here are a few arguments presented by opposite sides of the debate."
+       ],
+       "pros":[
+          "Privatizing healthcare will increase prices and cause economic strain on families. In 2007, about 62% of US bankruptcies were related to medical expenses.",
+          "Privatizing healthcare would reduce the overall health and wellbeing of the country, as many individuals would not be able to afford private medical services.",
+          "Universal healthcare enhances economic productivity by increasing overall health so more people can work and contribute to society as a whole.",
+          "Government funded healthcare also reduces the strain of insurance coverage from businesses."
+       ],
+       "cons":[
+          "People with high incomes, and subsequently pay more taxes then those with lower incomes, should not be forced to pay the medical bills of others due to incongruent taxation.",
+          "Privatized healthcare will provide higher quality services – you pay for what you get. Not all healthcare providers are of the same quality.",
+          "Government-funded healthcare will rise taxes.",
+          "A right to healthcare causes an overuse of services while having to manage a rationing of resources."
+       ]
+    },
+    {
+       "title":"Legalization of Marijuana",
+       "problem_statement":"Should Recreational Marijuana be Legal?",
+       "position_statements":{
+          "for_statement":"Legalizing Marijuana",
+          "alternate_statement":"Criminalizing Marijuana"
+       },
+       "image_src":"/static/media/issue-legalization-of-marijuana.ae083010.jpg",
+       "description":[
+          "Marijuana legalization refers to the practice of allowing and regulating the production, distribution, sale, and possession of cannabis so that marijuana use within the established rules is no longer a crime. There are different models of legalization, ranging from allowing people to grow their own marijuana to nonprofit co-ops to for-profit commercialization with retail sales. People differ on their position on whether marijuana should be legalized. Here are a few arguments FOR and AGAINST legalizing marijuana use."
+       ],
+       "pros":[
+          "Add billions to the economy and create hundreds of thousands of jobs.",
+          "Lower street crime and disrupt the drug cartels.",
+          "Make marijuana use safer through required testing, labeling, and child-proof packaging.",
+          "Remove the stigma associated with smoking marijuana, as the herb is relatively harmless."
+       ],
+       "cons":[
+          "Cost the economy millions due to a surge in additional costs, such as increased hospital visits, addiction treatment, environmental damage, crime, workplace accidents, and lost productivity.",
+          "Increase teen use. Leading to more medical emergencies including traffic deaths from driving while under the influences (e.g., high).",
+          "Harm users physically (e.g., lung cancer; damage to brain cells) and mentally (e.g., anxiety, schizophrenia), and that it use should be strongly discouraged, not legalized. ",
+          "Not eliminate the black market for marijuana. Drug dealers will work harder to create substances more potent and desirable."
+       ]
+    },
+    {
+       "title":"Banning The Burqa",
+       "problem_statement":"Should Women Have the Right to Wear the Burqa?",
+       "position_statements":{
+          "for_statement":"Banning Burqa",
+          "alternate_statement":"Wearing Burqa"
+       },
+       "image_src":"/static/media/issue-banning-the-burqa.05299428.jpg",
+       "description":[
+          "The burqa is a garment for women that completely covers the body and face, allowing space only for the eyes to see. It originates from Islamic traditions, historically, to preserve the modesty of a woman. There is considerable debate as to whether wearing the burqa should be banned in Western countries due to concerns for safety, religious freedom, and women’s rights. Here are a few arguments presented by opposite sides of the debate."
+       ],
+       "pros":[
+          "Burqas are an oppressive symbol of women's subjugation to men and of viewing women as second-class citizens.",
+          "The burqa restricts a woman's right to express herself.",
+          "A woman that no longer wishes to wear the burqa may do so more freely, without being ostracized or threatened by her community since most women would no longer be wearing it.",
+          "From a security point of view, face and body covering can facilitate various acts of violence and lawlessness."
+       ],
+       "cons":[
+          "Banning the burqa goes against freedom of religion and singles out Muslims as problematic. Otherwise, why are Christians not forbidden to wear a cross or Jews forbidden from wearing yarmulkes (the ritual head coverings worn by devout Jewish men)?",
+          "Muslim women wear the burqas by choice. It is part of their religion and culture.",
+          "This is also a matter of individual freedom. Who appointed the State to tell us how to (and not to) dress?",
+          "Countries are made stronger by diversity. Countries can preserve their heritage while welcoming practices from Muslim countries."
+       ]
+    },
+    {
+       "title":"Legalization of Prostitution",
+       "problem_statement":"Should Sex Work be Legalized?",
+       "position_statements":{
+          "for_statement":"Legalizing Prostitution",
+          "alternate_statement":"Preventing Prostitution"
+       },
+       "image_src":"/static/media/issue-legalization-of-prostitution.c7756d13.jpg",
+       "description":[
+          "Prostitution is the act of performing sexual services for financial compensation. Females working in this industry are more likely to be victims of crime such as abuse and human trafficking. Due to its association with criminal activity, religious violations and general stigmatization, there is debate on whether the practice should be legal. Legalizing prostitution has implications for economics, health, safety, and human rights. Here are a few arguments FOR and AGAINST legalizing Prostitution."
+       ],
+       "pros":[
+          "Sex workers would be better protected because they would be more comfortable in approaching law enforcement.",
+          "Laws that regulate prostitution would include regular health checks, reducing the risk of sexually transmitted diseases.",
+          "If consensual sex is legal, it does not make sense for consensual sex to become illegal due to the voluntary exchange of money.",
+          "Prostitution is a multi-million dollar industry that will exist legally or illegally. As such, it makes economic sense to tax the practice."
+       ],
+       "cons":[
+          "The number of sex workers would increase, leading to more people being exposed to dangerous situations for both physical and mental trauma.",
+          "Women would further be objectified, increasing the likelihood of abuse and inhibitIng the progression of women's rights.",
+          "There are many religious beliefs that suggest prostitution is sinful and immoral.",
+          "Just like illicit, recreational drug use, prostitution it is a harmful practice. Legalizing it for economic goals would be immoral."
+       ]
+    },
+    {
+       "title":"Legalization of Same-Sex Marriage",
+       "problem_statement":"Should Gay Couples be Allowed to Marry?",
+       "position_statements":{
+          "for_statement":"Marriage Equality",
+          "alternate_statement":"Traditional Marriage"
+       },
+       "image_src":"/static/media/issue-legalization-of-same-sex-marriage.9cebaa78.jpg",
+       "description":[
+          "In 2001, the Netherlands became the first country to legalize same-sex marriage. In 2005, Canada became the fourth country in the world to legalize same-sex marriage. In 2015, USA legalized same sex-marriage. Support for same-sex unions continues to be mixed. Controversy on the topic include varied beliefs on the “limits of rights”, freedom of choice, religious doctrine, and equality. Here are a few arguments FOR and AGAINST legalizing same-sex marriages."
+       ],
+       "pros":[
+          "Equality extends to the right of who an individual wants to marry; denying this right is a discriminatory, homophobic act.",
+          "Allowing same-sex marriages will help reduce stigma against homosexuals.",
+          "The government should not be involved in the private affairs of its people. As such, they should hold no restrictions over topics such as marriage.",
+          "Same-sex marriages also increase the amount of orphans adopted."
+       ],
+       "cons":[
+          "Marriage should remain a union between a man and a female because marriage is a pragmatic union built for procreation. Violating this would weaken the sanctity of heterosexual relationships.",
+          "There are multiple religious beliefs that forbid such unions. Allowing gay marriage would weaken religion, which plays a foundational role in communities and society.",
+          "If society were to extend the equal rights for same-sex marriage that heterosexual marriages have, then the same rights should be applied to polygamous or incestuous relationships. Since this does not occur, certain rights do have limits.",
+          "It is common sense that heterosexual relationships are not natural in that a child cannot be produced."
+       ]
+    },
+    {
+       "title":"Legalization of the Death Penalty",
+       "problem_statement":"Should Some Prisoners be Sentenced to the Death Penalty for Their Crimes?",
+       "position_statements":{
+          "for_statement":"Death Penalty",
+          "alternate_statement":"Abolishing Death Penalty"
+       },
+       "image_src":"/static/media/issue-legalization-death-penalty.7d8b92b7.jpg",
+       "description":[
+          "In the United States, capital punishment, also known as the death penalty, is a government-sanctioned practice whereby a person is ordered to be killed by the state as a punishment for a crime. Crimes that are punishable by death commonly include murder, treason, espionage, war crimes, and crimes against humanity. The death penalty is a matter of active controversy in several countries and states, with positions varying from for or against the use of this practice for punishment. Here are a few arguments FOR and AGAINST the death sentence."
+       ],
+       "pros":[
+          "It is an effective method for preserving law and order – both as a deterrent (out of fear for the death penalty, people do not commit murder or other heinous crimes) and by preventing offenders from repeating a crime.",
+          "It is cheaper than life sentences, and helps console those affected by the crime, such as grieving families.",
+          "The punishment fits the crime. The nature of their crime deserves the death penalty. Indeed, the death penalty is reserved for those that have committed only the most heinous (wicked) crimes. It selects the worst of the worst.",
+          "The death penalty promotes belief in and respect for moral order within society."
+       ],
+       "cons":[
+          "It has no deterrent on crime; there is no credible statistical evidence that capital punishment reduces the rate of murder.",
+          "Wrongly gives governments the power to take human life and there is a risk of sentencing someone that is innocent to death.",
+          "There are fundamental flaws within the legal system leading to wrongful convictions of potentially innocent peoples.",
+          "Perpetuates social injustices by disproportionately targeting minorities (such as people of colour), or people that cannot afford a good attorney (classism)."
+       ]
+    },
+    {
+       "title":"Illegal Immigration Laws",
+       "problem_statement":"Should Illegal Immigrant Laws be more Strictly Enforced?",
+       "position_statements":{
+          "for_statement":"Stopping Illegal Immigration",
+          "alternate_statement":"Illegal Immigrant Rights"
+       },
+       "image_src":"/static/media/issue-illegal-immigration-laws.71463c71.jpg",
+       "description":[
+          "Illegal immigration is on the rise in Canada. In 2017, 50440 asylum claims were made. It should be noted that seeking asylum applies to legal application processes of immigration as well, but currently Canada has more illegal applicants than legal. A major reason for this is the deportation of illegal immigrants in the USA. Controversy stems from whether illegal immigrants are an economic burden or asset, as well as concerns on the leniency of government policy. Here are a few arguments FOR and AGAINST strict enforcing strict illegal immigration laws."
+       ],
+       "pros":[
+          "Providing legal status will allow illegal immigrants to get higher paying jobs, and consequently boost the economy.",
+          "Mass deportations would cause a significant economic strain – both on the costs of finding and deporting illegal immigrants, and in the loss of part of the workforce.",
+          "Illegal immigrants are not a significant source of terrorism. In the USA, foreigners that have carried out terrorist attacks have entered the country primarily through various forms of legal immigration (work/tourist visas, etc).",
+          "It is cruel and inhumane to separate families that have legal and illegal members."
+       ],
+       "cons":[
+          "Illegal immigration is a burden for society and take jobs away from legal citizens or immigrants.",
+          "The illegal act of entering the country should not be rewarded by providing a legal status.",
+          "It slows down the process of people legally attempting to enter the country via asylum claims.",
+          "Illegal immigrants are an economic burden because they may access social services. This both slows the process of and reduces the resources available to legal citizens and immigrants accessing the same services."
+       ]
+    },
+    {
+       "title":"Climate Change",
+       "problem_statement":"Should Policy be Implemented to Reduce Human-Caused Environmental Damage",
+       "position_statements":{
+          "for_statement":"Stopping Global Warming",
+          "alternate_statement":"Global Warming is a Hoax"
+       },
+       "image_src":"/static/media/issue-climate-change.9ce9d7ab.jpg",
+       "description":[
+          "Temperatures have increased globally, creating significant changes in many ecosystems. For instance, these temperature changes have exacerbated the melting of the ice caps, resulting in rising sea levels and more frequent flooding. The degree to which human activity influences climate change and whether the world requires stricter environmental policies to reduce this potentially human-caused damage is debated. Here are a few arguments presented by opposite sides of the debate."
+       ],
+       "pros":[
+          "In 2010 a study found that 97%-98% climate researchers most actively publishing in their field agreed that human activity is responsible for climate change.",
+          "In 2013, a review of 11944 peer-reviewed studies on climate change found that only 78 studies (0.7%) explicitly rejected the notion that human activity was responsible for global warming.",
+          "Human activity produces gases that become trapped in the atmosphere, causing a “greenhouse effect” and global warming.",
+          "The \"greenhouse effect\", is amplified beyond natural expectations; the rate of climate change is faster than what would naturally be produced."
+       ],
+       "cons":[
+          "In a 2013 review it was found that 66.7% of the climate research studies did not suggest that human activity was the source of climate change; Earth’s climate has naturally warmed and cooled throughout time.",
+          "Earth's warming occurred before the increase of human-released carbon dioxide (i.e., pollution from cars/factories).",
+          "Fluctuations in the ocean’s currents and the sun's heat are the major driving forces in global warming.",
+          "Since human activity is not a significant cause of climate change, policy changing human activity is unfounded."
+       ]
+    },
+    {
+       "title":"Mandatory Child Vaccinations",
+       "problem_statement":"Should the Government Impose Mandatory Vaccinations on Children?",
+       "position_statements":{
+          "for_statement":"Mandatory Child Vaccinations",
+          "alternate_statement":"Protecting Children from Vaccinations"
+       },
+       "image_src":"/static/media/issue-mandatory-child-vaccinations.abe1e383.jpg",
+       "description":[
+          "Vaccinations for children are recommended by Health Canada and the Centers for Disease Control  and Prevention (CDC) in the US, and are mandatory in a few states and provinces for children entering public schools. Although adverse reactions to vaccines are rare, a number of opponents have argued that injecting questionable vaccine ingredients into a child may cause important long-term problems, including seizures, autism, and ADHD. As such, there has been a number of important debates on whether vaccines should be mandatory for children. Here are a few arguments FOR and AGAINST mandatory vaccinations for Children."
+       ],
+       "pros":[
+          "The United Nations states that vaccines save 2.5 million children from preventable diseases (90%-99%) a year worldwide and save lives.",
+          "Ingredients in vaccines are administered at safe dosages, and thus there should be no fear of harmful chemicals; adverse reactions are extremely rare (e.g., one per million vaccines).",
+          "Vaccines save money because they are cheaper than treatment for an infectious disease.",
+          "Vaccines have been the main driving force in eliminating diseases such as polio and small pox."
+       ],
+       "cons":[
+          "The government should not intervene and enforce personal medical choices. This is especially problematic for some religious doctrines.",
+          "Vaccines can sometimes cause serious and fatal side effects.",
+          "Vaccines contain harmful ingredients - such as mercury, yeast proteins, and more -  which are believed to increase the risk of developing cardiac and mental impairments, such as autism, ADHD, kidney failure, and death.",
+          "Pharmaceutical companies, FDA, and CDC should not be trusted to make and regulate safe vaccines, since they are driven by profit."
+       ]
+    },
+    {
+       "title":"Legalization of Euthanasia",
+       "problem_statement":"Should Euthanasia be a Legal Option for Voluntary Death?",
+       "position_statements":{
+          "for_statement":"Legalizing Euthanasia",
+          "alternate_statement":"Criminalizing Euthanasia"
+       },
+       "image_src":"/static/media/issue-legalization-of-euthanasia.af518814.jpg",
+       "description":[
+          "Euthanasia, or physician assisted suicide, is the practice of ending an ill person's life upon their request to relieve intractable suffering. Euthanasia is legal in Canada as of 2016 for terminally ill adults. However, it requires repeated explicit consent, including right at the moment before death. There are many arguments for and against legalizing euthanasia, such that it is illegal in most countries in the world. Here are a few arguments FOR and AGAINST legalizing euthanasia."
+       ],
+       "pros":[
+          "Every patient has a right to choose when to die.",
+          "Allowing people to ‘die with dignity’ in a quick and painless death is kinder than forcing them to continue their lives with suffering.",
+          "Euthanasia can be safely regulated by government legislation.",
+          "It is less expensive than lifelong treatment."
+       ],
+       "cons":[
+          "Terminally ill people may not be in the right state of mind to give consent.",
+          "In the Netherlands in 1990, it is estimated that 1000 patients were killed without their request.",
+          "Opening the doors to voluntary euthanasia could lead to non-voluntary and involuntary euthanasia, by giving doctors the power to decide when a patient’s life is not worth living.",
+          "Life is precious and should be preserved. Suicide is immoral."
+       ]
+    },
+    {
+       "title":"Animal Testing",
+       "problem_statement":"Should Animals be Used for Scientific and Commercial Testing in Laboratories?",
+       "position_statements":{
+          "for_statement":"Animal Testing",
+          "alternate_statement":"Animal Rights"
+       },
+       "image_src":"/static/media/issue-animal-testing.06410b1c.jpg",
+       "description":[
+          "Approximately 26 million animals are used every year in the United States for commercial or scientific testing. Animals are used in commercial and scientific testing as a way to determine the safety of biomedical, commercial or healthcare products. Scientifically, animals have also been used in various behavioural experiments as well. Here are a few arguments FOR and AGAINST animal testing."
+       ],
+       "pros":[
+          "Research involving animal testing has overall provided improved healthcare for animals and humans alike.",
+          "Animal research has led to breakthroughs such as the creation of various vaccines, pacemakers, and cochlear implants.",
+          "There are strict restrictions against mistreating animals in laboratories.",
+          "Animals are only used for research purposes when there are no other alternatives available."
+       ],
+       "cons":[
+          "It is a cruel and inhumane practice.",
+          "Animals do not get many of the diseases we do, such as Parkinson's disease, major types of heart disease, and many types of cancer, Alzheimer's disease, HIV or schizophrenia.",
+          "Animals are not given a choice in the matter.",
+          "There has been little success in generalizing research findings on animals to humans. 90% of drugs fail in human trials despite promising results in animal tests."
+       ]
+    },
+    {
+       "title":"Gun Control Laws",
+       "problem_statement":"Should More Gun Control Laws be Enacted?",
+       "position_statements":{
+          "for_statement":"Strict Gun Control",
+          "alternate_statement":"Right to Bear Arms"
+       },
+       "image_src":"/static/media/issue-gun-control-laws.a395dead.png",
+       "description":[
+          "Gun control (or firearms regulation) is the set of laws or policies that regulate the manufacture, sale, transfer, possession, or use of firearms by civilians. Most countries have a restrictive firearm guiding policy; however, in some countries, such as the United States (U.S.), the right to bear arms is constitutionally protected, resulting in an elevated rate of gun possession in the U.S. compared to other countries (88.8 guns per 100 people). There is significant debate as to whether more gun control laws should be enacted in order to reduce availability of weapons and potential violence. Here are a few arguments presented by opposite sides of the debate."
+       ],
+       "pros":[
+          "The Second Amendment was intended for militia, not domestic/personal use.",
+          "Mass shootings, impulsive gun violence (e.g., shooting someone out of anger), and accidental deaths (e.g., children playing with guns) would be significantly reduced if guns were less easily available.",
+          "Gun restrictions have always existed and have been successful in reducing violence in other countries (e.g., Australia, Canada).",
+          "A majority of Americans, including gun owners, support new gun restrictions​."
+       ],
+       "cons":[
+          "The Second Amendment was intended to protect everyone's right to bear arms and protect oneself (and family) from danger.",
+          "Gun violence is not the result of gun legislation, but people; \"Guns don't kill people, people do.\" If these individuals did not have access to guns, they would use another weapon, such as a knife or a bomb.",
+          "There are other solutions to reducing the likelihood/consequences of mass shootings, such as arming school teachers, increasing security on campus, implementing emergency school shooting protocols, and more.",
+          "Gun control would not work in the US, it is a part of its culture. Banning guns would be like banning drugs, people will still find a way to get them."
+       ]
+    },
+    {
+       "title":"Hate Speech Censorship",
+       "problem_statement":"Should Hate Speech be Censored?",
+       "position_statements":{
+          "for_statement":"Censoring Hate Speech",
+          "alternate_statement":"Free Speech"
+       },
+       "image_src":"/static/media/issue-hate-speech-censorship.ef20f962.png",
+       "description":[
+          "Recently, the United States has seen a major political polarization. In fact, it seems like at no other point in history has the nation been more divided. One of the issues specifically concerns freedom of speech. On the one hand, free speech is encouraged, and is a significant point in liberal ideology. On the other hand, there is the question of whether groups such as Neo-Nazis and alt-right should be allowed a voice and freedom to express their beliefs online and in public. Freedom of speech for “hate speech” vs. censorship of “hate speech” is a hot topic of debate. Here are a few arguments FOR and AGAINST censoring hate speech."
+       ],
+       "pros":[
+          "It protects certain groups from being maligned.",
+          "Censorship limits potential situations of violence resulting from disagreements between groups and individuals.",
+          "It can eliminate some detrimental concepts and ideas that could do harm.",
+          "Confronting and censoring hate speech is not about controlling the conversation or taking away an individual’s right to free speech, but rather about being promoting inclusivity, and fostering growth, tolerance, and understanding."
+       ],
+       "cons":[
+          "It’s hard to determine what “hate” is. For example, recently, Louis Farrakhan referred to Jews as “termites,” on Twitter, but no action was taken. Yet, many alt-right groups and individuals get banned from social media daily for voicing their opinions.",
+          "Hate speech places limits on free speech and the exchange of ideas between people.",
+          "As with Bill C-16 in Canada, not only does it limit one’s speech, but it also compels certain types of speech, like the required use of certain gender pronouns.",
+          "Allowing everyone to express their opinions can lead to ideas being challenged, and people having a better understanding of others’ points of view."
+       ]
+    },
+    {
+       "title":"Me Too Movement",
+       "problem_statement":"Should Accusations of Sexual Assault Be Broadcasted on Social Media Platforms?",
+       "position_statements":{
+          "for_statement":"MeToo Movement",
+          "alternate_statement":"Private Reporting Only"
+       },
+       "image_src":"/static/media/issue-metoo.3fc6e7e4.jpg",
+       "description":[
+          "The Me Too movement (or #MeToo movement) is a movement against sexual harassment and sexual assault in the workplace, music industry, sciences, academia, and politics. The hashtag #MeToo spread virally in October 2017 on social media where victims could share publicly their #MeToo stories in an attempt to demonstrate the widespread prevalence of sexual assault and harassment. It followed soon after the sexual misconduct allegations against Harvey Weinstein. Alyssa Milano, one of the founders of the movement, encouraged victims of sexual harassment to tweet about it and &quot;give people a sense of the magnitude of the problem&quot;. This was met with success, with more than 12 million #MeToo related posts during the first 24 hours on Facebook and Twitter, including some high-profile posts from several American celebrities (e.g.,Gwyneth Paltrow, Uma Thurman, Jennifer Lawrence) describing their #MeToo stories accusing men of sexual assault. Despite the hype, there have been significant concerns raised about the #MeToo movement. Here are a few arguments FOR and AGAINST posting reports of sexual harassment and assault claims online."
+       ],
+       "pros":[
+          "Social media gives many otherwise marginalized people a powerful voice, and has been successful in raising awareness of sexual assault and how widespread it’s become. When others speak up about their past abuse, others are more likely to come forward to the authorities and take appropriate action.",
+          "Several high-powered men have been accused of sexual assault via the Me Too movement, leading to further victims coming forward with their #MeToo stories and, eventually, a number of these men have been convicted of sexual assault (e.g., Bill Crosby, gymnastics doctor Larry Nassar).",
+          "It gives the opportunity for society to change its standards regarding sexual harassment. The “boys will be boys” logic should no longer be valid; instead, women should be treated with respect, and not be objectified the way they have been for decades.",
+          "The movement has forced many employers to make changes in response to #MeToo, for example examining gender-based pay differences and improving sexual harassment policies."
+       ],
+       "cons":[
+          "The movement may have gone too far. It can create a mob mentality in which people largely succumb to the pressure of conforming to the group, and supporting their friends’ and role models’ opinions rather than having their own.",
+          "Accusations are thrown around way too easily, and every accused is now “guilty until proven innocent.” Many innocent men may find themselves under fire, and can even witness their life get destroyed because of false allegations.",
+          "Everyone has the right to defend themselves, but this should happen in a courtroom with an unbiased audience, rather than the quick-to-judge internet presence.",
+          "Fake reports may be posted by people with certain political agendas, discrediting the whole movement and making it unlikely that any genuine reports will be taken seriously in the future."
+       ]
+    },
+    {
+       "title":"Legalization of Drugs",
+       "problem_statement":"Should All Drugs be Legalized?",
+       "position_statements":{
+          "for_statement":"Legalization of Drugs",
+          "alternate_statement":"Preventing Drug Use"
+       },
+       "image_src":"/static/media/issue-legalization-of-drugs.c04f7570.png",
+       "description":[
+          "The call for legalization of all drugs comes after the realization that prohibition does little to stop people, especially youth, from getting the drugs. Here are a few arguments FOR and AGAINST the legalization of all drugs."
+       ],
+       "pros":[
+          "There is evidence around the world that the war on drugs is a failure, and the law enforcement approach doesn’t do anything to deter addicts and users; instead, users are stigmatized, which in turn prevents them from seeking help.",
+          "Taking away the criminal element can reduce drugs use and the resulting deaths. For example, in 2001, Portugal decriminalized possession and use of all drugs, leading to a decrease in teen drug use, overdoses, and death.",
+          "If drugs are regulated and can be bought in stores, they are safer. Even a small amount of a powerful drug such as Fentanyl mixed in with other drugs sold by a dealer, can cause an overdose and death. Additionally, the introduction of safe injection sites, which aims to tackle the current opioid crisis, has saved and continues to save many lives, and supports those struggling with addiction.",
+          "Enforcing drug laws is costly. In 2002, in cost Canadians over $1 billion dollars to enforce cannabis laws alone. Drug use and abuse is a social issue, and that money could instead be directed toward employment and social support initiatives for at-risk individuals."
+       ],
+       "cons":[
+          "There is a good reason some drugs are illegal. They have a very powerful effect on an individual’s mental and physical well-being, and can cause irreversible damage to their body.",
+          "The danger of drug use and abuse is not limited to the consumers, so it goes beyond a matter of personal choice. For example, impaired judgment and decision-making, as well as slower reaction-time and increased thrill-seeking behaviors associated with certain drugs can result in violent outbursts toward innocent others, and an increased incidence of car accidents.",
+          "Legalization will give people access to drugs that otherwise would not be easily available. This poses a particular problem when it comes to young people who like to experience new things, especially under peer pressure. Biologically, some people are more prone to addiction, and even a single event can lead to devastating, long-term consequences.",
+          "Just like the legal ownership of guns in the United States sometimes leads to children’s accidental deaths, easy access to drugs at home, especially when the parent is under influence, can lead to injury and death of a young person."
+       ]
+    },
+    {
+       "title":"Black Lives Matter Movement",
+       "problem_statement":"Is Protesting for #BlackLivesMatter Necessary and Good for America (and other countries)?",
+       "position_statements":{
+          "for_statement":"Black Lives Matter",
+          "alternate_statement":"All Lives Matter"
+       },
+       "image_src":"/static/media/issue-black-lives-matter-movement.3b34b117.png",
+       "description":[
+          "Black Lives Matter is an international activist movement originating in the United States that campaigns against violence and systemic racism towards black people. The movement began with the use of the hashtag #BlackLivesMatter on social media after the acquittal of George Zimmerman in the shooting of Trayvon Martin, a black teenager, in February 2012. Since, there have been over 2000 #BlackLivesMatter protests worldwide, as well as several high-profile statements, such as professional athletes sitting during the national anthem, as opposed to the tradition of standing (a symbol of national pride), in solidarity with the movement. The protests and these types of acts have generated mixed reactions and debates on whether this movement is helpful or harmful for America and other countries. Here are a few arguments presented by opposite sides of the debate."
+       ],
+       "pros":[
+          "There is evidence of systemic, discriminatory practices in law enforcement wherein black males are twice as likely to be shot or arrested for drug offences than white males.",
+          "There is evidence of racial inequality that persist in education and economic opportunity; for instance, even after considering positive factors such as increased education levels, black families have less wealth on average than white families.",
+          "Collectively, the Black Lives Matter protests have lead to local and national changes; for instance, protests have led to negative publicity and subsequent loss of power for politicians and attorneys that have been involved in failures to prosecute police officers involved in the shooting of “innocent” black suspects (e.g., Trayvon Martin).",
+          "It has been reported that both implicit and explicit racism and pro-white bias decreased during the Black Lives Matter campaign."
+       ],
+       "cons":[
+          "This movement is dismissive because “All Lives Matter.” It ignores the fact that other minorities have been discriminated against in the past, and it is unfair to focus on only one group as deserving of protests.",
+          "The Black Lives Matter movement is divisive because it argues for racial divides which strengthen the notion that people of various ethnicities are different.",
+          "It is sometimes unclear what the objective of Black Lives Matter is, and many people believe that the movement condones violence exhibited by black people.",
+          "It incites violence especially towards the police, including three ambush murders of multiple officers in New York, Baton Rouge, and Dallas from 2014 to 2016."
+       ]
+    },
+    {
+       "title":"Stem Cell Research",
+       "problem_statement":"Should Embryonic Stem Cell Research Be Allowed?",
+       "position_statements":{
+          "for_statement":"Stem Cell Research",
+          "alternate_statement":"Protection of Embryos"
+       },
+       "image_src":"/static/media/issue-stem-cell-research.07b260bd.png",
+       "description":[
+          "Stem cells have been of particular research interest as they have a remarkable potential to develop into many different cell types in the body during early development. More importantly, they can renew themselves through cell division and become organ- or tissue-specific, repairing damaged or worn out cells. Given their regenerative abilities, stem cells have the potential of treating a wide variety of diseases. Despite that, there has been controversy surrounding the use of embryonic stem cells – cells derived from embryos that develop from eggs fertilized in vitro, in an in-vitro fertilization (IVF) clinic, and then donated for research purposes. Here are a few arguments FOR and AGAINST embryonic stem cell research."
+       ],
+       "pros":[
+          "Stem cells can grow indefinitely in a laboratory and can differentiate into other types of cells; by doing so, stem cells can help treat a range of medical problems such as Parkinson’s and Alzheimer’s diseases.",
+          "Embryos are not equivalent to human life as they cannot survive outside the womb. Additionally, more than one third of zygotes do not implant after conception, so more embryos are lost due to chance than to potential research.",
+          "In-vitro fertilization (IVF) creates a larger number of unused embryos which are destroyed afterwards. Using them for research would prevent them from being wasted.",
+          "Embryonic stem cells are a better alternative to using adult stem cells because they are easier to isolate and grow, they divide much more rapidly, and have more plasticity; this makes it easier to generate larger numbers of cells to treat a wider variety of diseases."
+       ],
+       "cons":[
+          "Embryonic stem cell research is frowned upon by many ethnic and religious groups, whose members believe that an embryo is considered to be a human, therefore claiming that the research is tantamount to murder.",
+          "Pro-life supporters also assert that adult stem cells from sources such as the umbilical cord have produced better results, and new advances in technology will soon make the use of embryonic stem cells unnecessary.",
+          "Stem cell research in the future can lead to knowledge on how to clone humans, which is seen as a violation of the sanctity of life and goes against the natural order of things.",
+          "The consequences of such research are uncertain, and the findings may be misused by groups of people and organizations looking to propagate their cause. In fact, there has been some debate surrounding embryonic stem cell research and its connections to the eugenics (i.e., selective breeding to improve the human race) movement of the last century."
+       ]
+    },
+    {
+       "title":"Vegetarianism",
+       "problem_statement":"Should Everyone Be Making a Move Towards Vegetarianism?",
+       "position_statements":{
+          "for_statement":"Vegetarianism",
+          "alternate_statement":"Eating Meat"
+       },
+       "image_src":"/static/media/issue-vegetarianism.acce2b13.png",
+       "description":[
+          "Vegetarianism refers to a lifestyle that seeks to eliminate the use of animal products in food, clothing, and other items because of health and ethical concerns. In the last couple of years, vegetarianism has increased in popularity, making many restaurants and shops around the world adapt to the changing dietary landscape. While many scientists and lay-people alike urge others to move towards a vegetarian lifestyle, the majority of people have reservations about whether to completely eliminate meat and other animal by-products from their everyday lives. Here are a few arguments FOR and AGAINST the move towards vegetarianism."
+       ],
+       "pros":[
+          "Well-planned vegetarian diets have been found to be better for health, as they lower cholesterol and blood pressure, and decrease the rates of heart disease, some types of cancer, and type 2 diabetes.",
+          "Killing animals is not justified, and many of the animals on factory farms are killed prematurely. For example, cows can live for over 20 years, but on daily farms they are usually killed around the ages of 3-4 when milk production is no longer profitable.",
+          "Animals living on factory farms have to endure disease-ridden and cramped conditions, where they experience constant fear, torture, and pain before being slaughtered.",
+          "Meat and dairy industry places a huge burden on the environment. Farming is resource-intensive and uses about 70% of the Earth’s freshwater. Additionally, factory farms contribute to global warming by releasing large amounts of greenhouse gases, such as methane, into the atmosphere."
+       ],
+       "cons":[
+          "Vegetarianism is not synonymous with health. There is an incredible amount of processed soy that vegetarians rely on for protein, which can lead to infertility, digestive issues, and malabsorption.",
+          "Vegetarians are often deficient in iron, vitamin B12, and omega 3s, which are essential to healthy functioning, and are found in abundance in meat products and fish. For example, inadequate intake of vitamin B12 can cause irreversible brain damage.",
+          "Being vegetarian is not necessarily more ethical. Every day, plowing destroys the habitats of other animals such as mice, snakes, etc. The production of grain and vegetables requires large amounts of pesticides and fertilizers, which also have a negative impact on biodiversity.",
+          "It may not be more sustainable. The grains grown to feed the cattle are usually GMO soy and corn, and those fields are also a major source of greenhouse gases, further contributing to water and air pollution."
+       ]
+    }
+ ]

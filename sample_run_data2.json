@@ -1,0 +1,107 @@
+[
+    {
+      "index": 1,
+      "jspsych_timestamps": {
+        "cue_time_elapsed": 2654,
+        "fixation_time_elapsed": 5405,
+        "target_time_elapsed": 5665,
+        "blank1_time_elapsed": 6409,
+        "feedback_time_elapsed": 8526,
+        "blank2_time_elapsed": 9027
+      },
+      "response_logs": {},
+      "absolute_trial_start": 1654,
+      "point_value": 0.3,
+      "hit": true,
+      "target_presentation_rt": 259,
+      "target_presentation_duration": 500,
+      "fixation_end_to_blank1_end": 1004,
+      "fixation_duration": 2751,
+      "feedback_duration": 2117,
+      "total_duration": 7373
+    },
+    {
+      "index": 2,
+      "jspsych_timestamps": {
+        "cue_time_elapsed": 10030,
+        "fixation_time_elapsed": 12089,
+        "target_time_elapsed": 12457,
+        "blank1_time_elapsed": 13092,
+        "feedback_time_elapsed": 15886,
+        "blank2_time_elapsed": 16388
+      },
+      "response_logs": {},
+      "absolute_trial_start": 9030,
+      "point_value": 0.3,
+      "hit": true,
+      "target_presentation_rt": 368,
+      "target_presentation_duration": 500,
+      "fixation_end_to_blank1_end": 1003,
+      "fixation_duration": 2059,
+      "feedback_duration": 2794,
+      "total_duration": 7358
+    },
+    {
+      "index": 3,
+      "jspsych_timestamps": {
+        "cue_time_elapsed": 17391,
+        "fixation_time_elapsed": 19045,
+        "target_time_elapsed": 19297,
+        "blank1_time_elapsed": 20048,
+        "feedback_time_elapsed": 22453,
+        "blank2_time_elapsed": 22954
+      },
+      "response_logs": {},
+      "absolute_trial_start": 16391,
+      "point_value": 0.3,
+      "hit": true,
+      "target_presentation_rt": 252,
+      "target_presentation_duration": 500,
+      "fixation_end_to_blank1_end": 1003,
+      "fixation_duration": 1654,
+      "feedback_duration": 2405,
+      "total_duration": 6563
+    },
+    {
+      "index": 4,
+      "jspsych_timestamps": {
+        "cue_time_elapsed": 23957,
+        "fixation_time_elapsed": 26704,
+        "target_time_elapsed": 27057,
+        "blank1_time_elapsed": 27707,
+        "feedback_time_elapsed": 30540,
+        "blank2_time_elapsed": 31041
+      },
+      "response_logs": {},
+      "absolute_trial_start": 22957,
+      "point_value": 0.3,
+      "hit": true,
+      "target_presentation_rt": 353,
+      "target_presentation_duration": 500,
+      "fixation_end_to_blank1_end": 1003,
+      "fixation_duration": 2747,
+      "feedback_duration": 2833,
+      "total_duration": 8084
+    },
+    {
+      "index": 5,
+      "jspsych_timestamps": {
+        "cue_time_elapsed": 32043,
+        "fixation_time_elapsed": 34817,
+        "target_time_elapsed": 35264,
+        "blank1_time_elapsed": 35818,
+        "feedback_time_elapsed": 38635,
+        "blank2_time_elapsed": 39139
+      },
+      "response_logs": {},
+      "absolute_trial_start": 31043,
+      "point_value": 0.3,
+      "hit": true,
+      "target_presentation_rt": 447,
+      "target_presentation_duration": 500,
+      "fixation_end_to_blank1_end": 1001,
+      "fixation_duration": 2774,
+      "feedback_duration": 2817,
+      "total_duration": 8096
+    }
+  ]
